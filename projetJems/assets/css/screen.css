@@ -1,0 +1,21 @@
+@media (max-width: 767px) {
+    #navbnar{
+        height: 50px;
+    }
+    li{
+        font-size: 0.5em;
+    }
+ #titlen1{
+     font-size: 1.5em;
+ } 
+ .navcontainer{
+     height: 150px;
+ }
+ .navcontainer .navbar-nav .open .dropdown-menu > li > a {
+ color: #777;
+ }
+ .navcontainer .navbar-nav .open .dropdown-menu > li > a:hover,
+ .navcontainer .navbar-nav .open .dropdown-menu > li > a:focus {
+ color: #333;
+ }
+}
